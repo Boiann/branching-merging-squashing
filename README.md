@@ -1,5 +1,7 @@
 # Branching/testing
 
+![Branching](/img_asset/Screenshot%202023-04-12%20113612.png)
+
 Created to learn/practice GitHub branches, merging and squashing commits.
 
 ## $\textcolor{chartreuse}{\textsf{PROCEDURE}}$
