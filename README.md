@@ -27,11 +27,11 @@ Created to learn/practice GitHub branches, merging and squashing commits.
 ### $\textcolor{cyan}{\textsf{GitHub}}$
 * $\fcolorbox{black}{green}{\textsf{Compare and Pull Request}}$ button
   * Add comments and title
-  * Do $\color{red}{\textsf{NOT}}$ delete hashtag number of the commit title!
+  * Do $\color{red}{\textsf{NOT}}$ DELETE OR CHANGE hashtag number of the commit title!
 * $\fcolorbox{black}{green}{\textsf{Create Pull Request}}$ button
 * $\fcolorbox{black}{green}{\textsf{Squash and Merge}}$ button
 * Confirmation
-* **Hashtag number of the commit title** - this serves as a shortcut to the merge. When clicked on a hashtag number in the commit, you can see all the commits that are squashed into it.
+* **Hashtag number of the commit title** - this serves as a shortcut to the merge. When clicked on a hashtag number in the commit, you can see all the commits that are squashed into it. If you don't have this option, the previous steps/commits are still viewable if you go to Pull requests => click on the pull request that you want to see squashed commits of.
 <hr>
 
 ### $\textcolor{cyan}{\textsf{GitPod Terminal}}$
