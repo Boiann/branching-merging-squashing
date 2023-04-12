@@ -39,3 +39,12 @@ Created to learn/practice GitHub branches, merging and squashing commits.
 * **git pull** 
   * Now $\color{red}{\textsf{main}}$ is up to date with last branch merged into it
 * Can start over again with new branch
+<hr>
+<hr>
+<hr>
+
+I created this to help anyone (and myself!) wanting clear and unambiguous guide for branching/merging/squashing on GitHub.
+I have not yet used the guide in a live project, if there are bugs or mistakes please do let me know, I would appreciate it.
+
+The info gathered was from a mix of YouTube, Stack Overflow, GitHub docs and digging into other people's projects to see how they work.<br>
+$\textcolor{dimgray}{\textsf{Boiann 2023}}$
