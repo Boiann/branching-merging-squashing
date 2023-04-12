@@ -5,6 +5,12 @@ Created to learn/practice GitHub branches, merging and squashing commits.
 ## $\textcolor{yellow}{\textsf{PROCEDURE}}$
 <hr>
 
+### $\textcolor{lightblue}{\textsf{GitHub}}$
+* In the repo you are working on, under $\color{red}{\textsf{Settings}}$
+ =>  $\color{red}{\textsf{Branches}}$, tick only the first box (Require a pull request before merging) and save the changes
+  * Done as to serve as additional check before merging and to remove the warning message about unprotected branch.
+<hr>
+
 ### $\textcolor{lightblue}{\textsf{GitPod Terminal}}$
 * **git checkout -b $\color{red}{\textsf{branch-name}}$**
   * Creates and places you in the created branch
