@@ -1,4 +1,4 @@
-# Branching/testing
+# Branching/merging/squashing
 
 ![Branching](/img_asset/Screenshot%202023-04-12%20113612.png)
 
