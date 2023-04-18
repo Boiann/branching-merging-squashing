@@ -9,7 +9,8 @@ Created to learn/practice GitHub branches, merging and squashing commits.
 
 ### $\textcolor{cyan}{\textsf{GitHub}}$
 * In the repo you are working on, under $\color{red}{\textsf{Settings}}$
- =>  $\color{red}{\textsf{Branches}}$, tick only the first box (Require a pull request before merging) and save the changes
+ =>  $\color{red}{\textsf{Branches}}$, tick only the first box (Require a pull request before merging) 
+* Branch name pattern = main
   * Done as to serve as additional check before merging and to remove the warning message about unprotected branch.
 <hr>
 
